@@ -61,6 +61,7 @@ p {
     background-position: center;
 }
 
+/* start of utility classes */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,6 +71,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* end of utility classes */
 
 .content {
     width: 75%;
